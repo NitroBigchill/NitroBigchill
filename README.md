@@ -1,0 +1,3 @@
+-  Hi, I’m @NitroBigchill
+- I’m interested in Linux
+- I’m a beginner and new to linux
