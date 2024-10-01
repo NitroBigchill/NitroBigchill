@@ -1,2 +1,2 @@
 -  Hi, I’m @NitroBigchill
-- I’m a beginner and new to linux
+- I’m a linux beginner
